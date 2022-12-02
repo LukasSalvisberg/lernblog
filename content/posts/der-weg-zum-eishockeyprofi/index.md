@@ -8,7 +8,7 @@ footnotes = "Foto Bärnerbär: https://baernerbaer.ch/sport/hoehenfluege-sind-pr
 +++
 Tim Theiler, Lukas Salvisberg
 
-{{<lead>}} Als Nachwuchsspieler beim grossen SC Bern den Sprung zum Profi machen. Colin Gerber hat erreicht, wovon viele Jugendliche träumen. Heute spielt er gegen die ganz Grossen aus der NHL. {{<lead>}}
+{{<lead>}} Als Nachwuchsspieler beim grossen SC Bern den Sprung zum Profi machen. Colin Gerber hat erreicht, wovon viele Jugendliche träumen. Heute spielt er gegen die ganz Grossen aus der NHL. {{</lead>}}
 
 Anpfiff in der PostFinance Arena in Bern. Im Rahmen der NHL Global Series Challenge spielt der SCB vor vollen Rängen gegen die Nashville Predators aus der NHL. Zwei Gymnasiasten sind auch dabei, denn so ein Spiel bekommt man in Bern nicht oft zu sehen. Die Atmosphäre im Stadion könnte nicht besser sein. Die Zuschauer freuen sich, Roman Josi und Nino Niederreiter aus der NHL hautnah spielen zu sehen. Viele von ihnen tragen Eishockeytrikots nicht nur vom SCB, sondern auch von verschiedenen NHL Clubs. Die Trikots von Josi und Niederreiter sind besonders oft vertreten.
 
@@ -20,7 +20,9 @@ Die Spieler des SC Bern und der Nashville Predators werden unter tosendem Applau
 
 ![Colin Gerber beim Verteidigen (Foto: Bärnerbär)](picture-colin.jpg "Colin Gerber beim Verteidigen (Foto: Bärnerbär) ")
 
-{{}} Colin Gerber spielt als Verteidiger in der ersten Mannschaft des SC Bern. Seine Leidenschaft fürs Eishockey hat, als er bei seinem Jugendclub EHC Burgdorf gespielt hat, begonnen. Mit 11 Jahren hat er erstmals Probetrainings beim SCB absolvieren dürfen und hat danach zu den SCB-Junioren gewechselt. Mit 17 hat er sich seinen Kindheitstraum erfüllt: In der NLA zu spielen. Der heute 24-Jährige hat 2017, mit nur 19 Jahren, einen Profi-Vertrag beim SCB unterschrieben. Colin Gerber ist mit seinen 191 cm und 94 kg eine wichtige Stütze der Mannschaft. {{}}
+{{<box>}}
+Colin Gerber spielt als Verteidiger in der ersten Mannschaft des SC Bern. Seine Leidenschaft fürs Eishockey hat, als er bei seinem Jugendclub EHC Burgdorf gespielt hat, begonnen. Mit 11 Jahren hat er erstmals Probetrainings beim SCB absolvieren dürfen und hat danach zu den SCB-Junioren gewechselt. Mit 17 hat er sich seinen Kindheitstraum erfüllt: In der NLA zu spielen. Der heute 24-Jährige hat 2017, mit nur 19 Jahren, einen Profi-Vertrag beim SCB unterschrieben. Colin Gerber ist mit seinen 191 cm und 94 kg eine wichtige Stütze der Mannschaft.
+{{</box>}}
 
 ### Der Druck als Profi
 
